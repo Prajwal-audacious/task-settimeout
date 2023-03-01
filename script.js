@@ -6,6 +6,8 @@ setTimeout(() => {
   box.style.backgroundColor = "red";
 }, 3000);
 
+
+
 let bool = true;
 setInterval(() => {
   if (bool) {
@@ -17,3 +19,5 @@ setInterval(() => {
     box2.style.backgroundColor = "blue";
   }
 }, 1000);
+
+
